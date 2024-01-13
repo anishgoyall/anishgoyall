@@ -7,7 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<br/>
 <p align="center">
   <img alt="reactjs" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="React.js">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="Node.js">
@@ -17,13 +16,7 @@
   <img alt="vscode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="VSCode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="GitHub">
 </p>
-<br/>
 
-<br/>
-<p align="center">
-	<img src="https://gh-readme.vercel.app/api?username=anishgoyall&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-	<img src="https://gh-readme.vercel.app/api/top-langs/?username=anishgoyall&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
-</p>
 <br/><br/>
 
 [![Anish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anishgoyall&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
